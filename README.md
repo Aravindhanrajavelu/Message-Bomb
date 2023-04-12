@@ -1,2 +1,2 @@
 # Message-Bomb
-by using html and javascript looping
+by using html and Javascript For  Looping Concept
